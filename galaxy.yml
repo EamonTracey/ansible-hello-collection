@@ -1,0 +1,14 @@
+namespace: eamontracey
+
+name: hello_collection
+
+version: 1.0.0
+
+readme: README.md
+
+authors:
+- Eamon Tracey <etracey@redhat.com>
+
+description: A minimal Ansible collection
+
+repository: http://example.com/repository
