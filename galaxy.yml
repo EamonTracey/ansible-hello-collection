@@ -6,3 +6,5 @@ description: A minimal Ansible collection
 version: 1.0.0
 readme: README.md
 repository: https://github.com/EamonTracey/ansible-hello-collection
+license:
+ - GPL-3.0-only
