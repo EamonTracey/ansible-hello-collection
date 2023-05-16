@@ -1,0 +1,6 @@
+galaxy_info:
+  author: Eamon Tracey
+  description: Print a hello world message
+  platforms:
+    - name: Fedora
+      versions: all
